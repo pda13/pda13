@@ -8,5 +8,10 @@
 
 👉🏻 I value transparency and teamwork, consistently meeting deadlines or providing timely updates on potential risks. I am eager to tackle complex challenges, share knowledge, and deliver impactful results. 
 
+### Contact me
+- Telegram := https://t.me/lifelessdev
+- LinkedIn := https://www.linkedin.com/in/pda13/
+- Gmail := pyankovdaniildev@gmail.com
+
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,kafka,rabbitmq,redis)](https://skillicons.dev)
