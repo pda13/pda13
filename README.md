@@ -7,3 +7,6 @@
 👉🏻 I excel in designing database architectures, implementing microservice interaction patterns, and identifying performance bottlenecks. 
 
 👉🏻 I value transparency and teamwork, consistently meeting deadlines or providing timely updates on potential risks. I am eager to tackle complex challenges, share knowledge, and deliver impactful results. 
+
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,kafka,rabbitmq,redis)](https://skillicons.dev)
